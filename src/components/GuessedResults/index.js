@@ -1,0 +1,1 @@
+export { GuessedResult } from "./GuessedResult";
